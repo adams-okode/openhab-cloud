@@ -52,4 +52,4 @@ services:
 
 volumes:
   mongo-data:
-  traefik-data:
+  # traefik-data:
